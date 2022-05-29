@@ -1,0 +1,8 @@
+C:\Users\muham\Source\Repos\LostManken\LostMankenTagHelpers\bin\Debug\netstandard2.0\LostMankenTagHelpers.deps.json
+C:\Users\muham\Source\Repos\LostManken\LostMankenTagHelpers\bin\Debug\netstandard2.0\LostMankenTagHelpers.dll
+C:\Users\muham\Source\Repos\LostManken\LostMankenTagHelpers\bin\Debug\netstandard2.0\LostMankenTagHelpers.pdb
+C:\Users\muham\Source\Repos\LostManken\LostMankenTagHelpers\obj\Debug\netstandard2.0\LostMankenTagHelpers.csprojAssemblyReference.cache
+C:\Users\muham\Source\Repos\LostManken\LostMankenTagHelpers\obj\Debug\netstandard2.0\LostMankenTagHelpers.AssemblyInfoInputs.cache
+C:\Users\muham\Source\Repos\LostManken\LostMankenTagHelpers\obj\Debug\netstandard2.0\LostMankenTagHelpers.AssemblyInfo.cs
+C:\Users\muham\Source\Repos\LostManken\LostMankenTagHelpers\obj\Debug\netstandard2.0\LostMankenTagHelpers.dll
+C:\Users\muham\Source\Repos\LostManken\LostMankenTagHelpers\obj\Debug\netstandard2.0\LostMankenTagHelpers.pdb

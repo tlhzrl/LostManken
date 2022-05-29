@@ -1,0 +1,19 @@
+﻿@page "{id}"
+@model LostManken.Areas.Admin.Pages.Categories.EditModel
+@{
+}
+
+<div>@ViewData["Message"]</div>
+
+<br />
+
+<form method="post">
+    <br />
+    <input type="hidden" asp-for="Category.Id" />
+    <input type="text" class="form-control" asp-for="Category.CategoryName" placeholder="Kategori adı"/>
+    <br />
+    <textarea class="form-control" asp-for="Category.Description" placeholder="Kategori açıklaması"></textarea>
+    <br />
+    <button class="btn btn-success" asp-page-handler="Update">Güncelle</button>
+    <a class="btn btn-primary" asp-area="Admin" asp-page="List">Listeye geri dön</a>
+</form>

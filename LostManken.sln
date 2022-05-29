@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostManken", "LostManken\LostManken.csproj", "{499D7864-A214-4387-81F8-2D216D7B1CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LostMankenTagHelpers", "LostMankenTagHelpers\LostMankenTagHelpers.csproj", "{DD60376B-0349-4EC0-8E6F-DCD4C656401A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499D7864-A214-4387-81F8-2D216D7B1CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499D7864-A214-4387-81F8-2D216D7B1CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499D7864-A214-4387-81F8-2D216D7B1CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499D7864-A214-4387-81F8-2D216D7B1CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD60376B-0349-4EC0-8E6F-DCD4C656401A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD60376B-0349-4EC0-8E6F-DCD4C656401A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD60376B-0349-4EC0-8E6F-DCD4C656401A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD60376B-0349-4EC0-8E6F-DCD4C656401A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65387527-380A-4236-A9BC-1020B0C78321}
+	EndGlobalSection
+EndGlobal

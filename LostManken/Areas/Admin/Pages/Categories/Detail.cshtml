@@ -1,0 +1,20 @@
+﻿@page "{id}"
+@model LostManken.Areas.Admin.Pages.Categories.DetailModel
+@{
+}
+    <table class="table table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <td>Kategori adı</td>
+                <td>Kategori açıklaması</td>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>@Model.Category.CategoryName</td>
+                <td>@Model.Category.Description</td>
+
+            </tr>
+        </tbody>
+    </table>

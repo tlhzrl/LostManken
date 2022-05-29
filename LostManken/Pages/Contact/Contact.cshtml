@@ -1,0 +1,144 @@
+﻿@page
+@model LostManken.Pages.Contact.ContactModel
+@{
+    ViewData["Title"] = "ProductAbout";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>StartUp</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link rel="stylesheet" href="~/Adminpage/startup/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/themify-icons.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/nice-select.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/flaticon.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/gijgo.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/animate.min.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/slick.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/slicknav.css">
+    <link rel="stylesheet" href="~/Adminpage/startup/css/style.css">
+  
+</head>
+
+<body>
+
+    <div class="bradcam_area breadcam_bg_3">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="bradcam_text">
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  
+    <section class="contact-section section_padding">
+        <div class="container">
+            <div class="d-none d-sm-block mb-5 pb-4">
+                <div id="map" style="height: 480px;"></div>
+                <script>
+    function initMap() {
+                        var uluru = { lat: -25.363, lng: 131.044 };
+                        var grayStyles = [
+                            {
+                                featureType: "all",
+                                stylers: [
+                                    { saturation: -90 },
+                                    { lightness: 50 }
+                                ]
+                            },
+                            { elementType: 'labels.text.fill', stylers: [{ color: '#ccdee9' }] }
+                        ];
+                        var map = new google.maps.Map(document.getElementById('map'), {
+                            center: { lat: -31.197, lng: 150.744 },
+                            zoom: 9,
+                            styles: grayStyles,
+                            scrollwheel: false
+                        });
+                    }</script>
+                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&callback=initMap"></script>
+
+            </div>
+
+
+            <div class="row">
+               
+                <div class="col-lg-12">
+                    <div class="row" id="googleMap" ></div>
+
+                    <div class="row">
+                        <div class="contact-form" style="width:100%">
+                            <div class="one_third last" style="text-align:center">
+                                <h4 class="title" style="color: #343a40"><span>Bize Ulaşın</span></h4>
+                                <p>
+                                    Bayrampaşa muratpaşa mahallesi <br>
+                                    sarı dökümcüler sitesi 6 blok iç kapı no 40<br>
+                                    Bayrampaşa/İstanbul
+                                </p>
+                                <p>
+                                    <strong>Telefon &nbsp;&nbsp;:</strong>&nbsp;&nbsp; 0542 325 34 55
+                                    
+                                </p>
+                                <p>
+                                    <br>
+                                    <a target="_blank" rel="noopener">lostmankenn@gmail.com</a>
+                                </p>
+                                <h4 class="title" style="color: #343a40"><span>Çalışma Saatleri</span></h4>
+                                <p>
+                                    <strong>Hafta İçi&nbsp;:&nbsp;</strong>08:00-18:30
+                                    <br>
+                                    <strong>Cumartesi&nbsp;:&nbsp;</strong> 08:00-13:00
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+      
+            </div>
+        </div>
+    </section>
+
+    <script src="~/Adminpage/startup/js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="~/Adminpage/startup/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/Adminpage/startup/js/popper.min.js"></script>
+    <script src="~/Adminpage/startup/js/bootstrap.min.js"></script>
+    <script src="~/Adminpage/startup/js/owl.carousel.min.js"></script>
+    <script src="~/Adminpage/startup/js/isotope.pkgd.min.js"></script>
+    <script src="~/Adminpage/startup/js/ajax-form.js"></script>
+    <script src="~/Adminpage/startup/js/waypoints.min.js"></script>
+    <script src="~/Adminpage/startup/js/jquery.counterup.min.js"></script>
+    <script src="~/Adminpage/startup/js/imagesloaded.pkgd.min.js"></script>
+    <script src="~/Adminpage/startup/js/scrollIt.js"></script>
+    <script src="~/Adminpage/startup/js/jquery.scrollUp.min.js"></script>
+    <script src="~/Adminpage/startup/js/wow.min.js"></script>
+    <script src="~/Adminpage/startup/js/nice-select.min.js"></script>
+    <script src="~/Adminpage/startup/js/jquery.slicknav.min.js"></script>
+    <script src="~/Adminpage/startup/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/Adminpage/startup/js/plugins.js"></script>
+    <script src="~/Adminpage/startup/js/gijgo.min.js"></script>
+
+   
+    <script src="~/Adminpage/startup/js/contact.js"></script>
+    <script src="~/Adminpage/startup/js/jquery.ajaxchimp.min.js"></script>
+    <script src="~/Adminpage/startup/js/jquery.form.js"></script>
+    <script src="~/Adminpage/startup/js/jquery.validate.min.js"></script>
+    <script src="~/Adminpage/startup/js/mail-script.js"></script>
+
+    <script src="~/Adminpage/startup/js/main.js"></script>
+</body>
+
+</html>

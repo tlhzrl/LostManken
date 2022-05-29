@@ -1,0 +1,9 @@
+﻿@page
+@model LostManken.Areas.Admin.Pages.Employee.DeleteModel
+@{
+}
+<p>Müşteri kaydını silmek istediğinize emin misiniz?</p>
+
+<form method="post">
+    <button asp-page-handler="Delete" asp-route-id="@Model.Id">Sil</button>
+</form>

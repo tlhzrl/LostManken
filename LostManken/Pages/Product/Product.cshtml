@@ -1,0 +1,20 @@
+﻿@page "{categoryId}"
+@model LostManken.Pages.Product.ProductModel
+@{
+    ViewData["Title"] = "ProductAbout";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="bradcam_area breadcam_bg_3">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="bradcam_text">
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<vc:product-list category-id="Model.CategoryId"></vc:product-list>
