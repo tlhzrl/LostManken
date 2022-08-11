@@ -9,7 +9,8 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace LostManken.Areas.Admin.Pages.Employee
 {
-   
+    [Authorize]
+
     public class DetailModel : PageModel
     {
         private readonly ApplicationDbContext db;

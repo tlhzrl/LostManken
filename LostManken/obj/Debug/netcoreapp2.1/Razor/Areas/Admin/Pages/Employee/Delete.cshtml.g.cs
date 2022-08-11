@@ -67,12 +67,12 @@ using NonFactors.Mvc.Grid;
             WriteLiteral("<p>Müşteri kaydını silmek istediğinize emin misiniz?</p>\r\n\r\n");
             EndContext();
             BeginContext(132, 106, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be6320620cfb482b8242a9d84c59f14d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0aea474f8bf941e497a1d2fb3634dc7a", async() => {
                 BeginContext(152, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(158, 71, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "34c8b769811d41fd86432d17ba006617", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9b673d71b32a4cbf8fd9c722fb704edc", async() => {
                     BeginContext(217, 3, true);
                     WriteLiteral("Sil");
                     EndContext();

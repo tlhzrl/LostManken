@@ -8,6 +8,8 @@ C:\Users\muham\Source\Repos\LostManken\LostManken\bin\Debug\netcoreapp2.1\LostMa
 C:\Users\muham\Source\Repos\LostManken\LostManken\bin\Debug\netcoreapp2.1\LostManken.pdb
 C:\Users\muham\Source\Repos\LostManken\LostManken\bin\Debug\netcoreapp2.1\LostManken.Views.dll
 C:\Users\muham\Source\Repos\LostManken\LostManken\bin\Debug\netcoreapp2.1\LostManken.Views.pdb
+C:\Users\muham\Source\Repos\LostManken\LostManken\bin\Debug\netcoreapp2.1\LostMankenTagHelpers.dll
+C:\Users\muham\Source\Repos\LostManken\LostManken\bin\Debug\netcoreapp2.1\LostMankenTagHelpers.pdb
 C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.csprojAssemblyReference.cache
 C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.RazorAssemblyInfo.cache
 C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.RazorAssemblyInfo.cs
@@ -52,6 +54,6 @@ C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\Razor\
 C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.RazorTargetAssemblyInfo.cache
 C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.RazorTargetAssemblyInfo.cs
 C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.Views.pdb
+C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.csproj.CopyComplete
 C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.dll
 C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.pdb
-C:\Users\muham\Source\Repos\LostManken\LostManken\obj\Debug\netcoreapp2.1\LostManken.csproj.CopyComplete

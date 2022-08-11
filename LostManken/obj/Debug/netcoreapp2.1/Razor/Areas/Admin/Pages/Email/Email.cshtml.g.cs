@@ -77,7 +77,7 @@ using NonFactors.Mvc.Grid;
             WriteLiteral("<div class=\"col-8\">\r\n    <div id=\"liste\">\r\n    </div>\r\n\r\n    ");
             EndContext();
             BeginContext(129, 1292, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "329bf5cb9c724c7fbcd0f97bea31e606", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4c61d7d5cbf24eb7a6bd86212435c45a", async() => {
                 BeginContext(179, 51, true);
                 WriteLiteral("\r\n        <div id=\"mails\"></div>\r\n        <div>\r\n\r\n");
                 EndContext();
@@ -93,7 +93,7 @@ using NonFactors.Mvc.Grid;
                 WriteLiteral("\r\n\r\n\r\n            <div class=\"all\">\r\n                ");
                 EndContext();
                 BeginContext(399, 296, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "291450bebb39417b83dbc701dad4fd51", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f9dbcb297bcd4d3e83473497b3ff1c1a", async() => {
                     BeginContext(473, 2, true);
                     WriteLiteral("\r\n");
                     EndContext();
@@ -107,7 +107,7 @@ using NonFactors.Mvc.Grid;
                     WriteLiteral("                        ");
                     EndContext();
                     BeginContext(581, 64, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3cfb2e655e6e45069ab164878976c8dd", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ec9580a360f4dd6a0ed18ef18142ee8", async() => {
                         BeginContext(618, 18, false);
 #line 21 "C:\Users\muham\Source\Repos\LostManken\LostManken\Areas\Admin\Pages\Email\Email.cshtml"
                                                        Write(item.CustomerEMail);
@@ -174,7 +174,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_SelectTagHelper.For = ModelExpressionProvi
                 WriteLiteral("\r\n            </div>\r\n\r\n\r\n            <div class=\"all\">\r\n                <div class=\"input-group-prepend\">\r\n                    <span class=\"input-group-text\" id=\"\">KONU</span>\r\n                </div>\r\n                ");
                 EndContext();
                 BeginContext(913, 70, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "b51df64129624eba9455453e657258f7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "53c12666e02845e480d2aa786591889f", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -200,7 +200,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 WriteLiteral("\r\n            </div>\r\n\r\n\r\n            <div class=\"all\">\r\n                <div class=\"input-group-prepend\">\r\n                    <span class=\"input-group-text\" id=\"\">MAİL İÇERİK</span>\r\n                </div>\r\n                ");
                 EndContext();
                 BeginContext(1208, 67, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("textarea", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3bb394d236ff41a28536e48b4abead44", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("textarea", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6e2f3fb3eda44a38a0790e8c6d3d3f6b", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_TextAreaTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper>();
@@ -224,7 +224,7 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_TextAreaTagHelper.For = ModelExpressionPro
                 WriteLiteral("\r\n            </div>\r\n\r\n            ");
                 EndContext();
                 BeginContext(1311, 81, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eb2d909acb3a4b9292a53ecd0833bfdf", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "574e58dab17e4a49ae1812978b04b2f2", async() => {
                     BeginContext(1372, 11, true);
                     WriteLiteral("Mail Gönder");
                     EndContext();

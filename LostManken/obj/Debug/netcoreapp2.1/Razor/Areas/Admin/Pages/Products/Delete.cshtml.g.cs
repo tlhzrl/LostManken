@@ -74,12 +74,12 @@ using NonFactors.Mvc.Grid;
             WriteLiteral("<h3>Bu kaydı silmek istediğine emin misin?</h3>\r\n\r\n");
             EndContext();
             BeginContext(130, 342, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "537112876e35468db3e107d03e0a3c4e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cd0115857e35484aa09fc7127b4c084d", async() => {
                 BeginContext(150, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(156, 129, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0bdfa522c62f43058922260f555d0082", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("button", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "baf6204e2a95499eb2d67e609c1f3257", async() => {
                     BeginContext(273, 3, true);
                     WriteLiteral("Sil");
                     EndContext();
@@ -116,7 +116,7 @@ using NonFactors.Mvc.Grid;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(291, 80, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bcae5302da9d432bbdf21f147b2d57f5", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "07b1ce371f924b518b346e0a2ecd9c5d", async() => {
                     BeginContext(351, 16, true);
                     WriteLiteral("Listeye geri dön");
                     EndContext();

@@ -20,4 +20,8 @@
     <PackageReference Include="NonFactors.Grid.Mvc6" Version="5.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LostMankenTagHelpers\LostMankenTagHelpers.csproj" />
+  </ItemGroup>
+
 </Project>

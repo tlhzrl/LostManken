@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LostManken.Areas.Admin.Pages.Products
 {
-   
+    [Authorize]
     public class ListModel : PageModel
     {
         private readonly ApplicationDbContext _applicationDbContext;

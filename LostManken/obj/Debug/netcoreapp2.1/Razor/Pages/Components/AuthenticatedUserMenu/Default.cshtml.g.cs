@@ -63,7 +63,7 @@ using LostManken.Model;
             WriteLiteral("    ");
             EndContext();
             BeginContext(144, 109, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8051ce7900c494297fc153f20b1bd24", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "eec4e53490c049e8a3b9027f162f0ce4", async() => {
                 BeginContext(191, 58, true);
                 WriteLiteral("<span class=\"glyphicon glyphicon-log-in\" ></span>Oturum Aç");
                 EndContext();
@@ -108,7 +108,7 @@ else
             WriteLiteral("<i class=\"ti-angle-down\"></i></a>\r\n    <ul class=\"submenu\">\r\n        <li>");
             EndContext();
             BeginContext(431, 89, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2527dced0c043a08807129cde808ff1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c8897a881b374a61ba60025e01028409", async() => {
                 BeginContext(501, 15, true);
                 WriteLiteral("Yönetici Paneli");
                 EndContext();
@@ -133,7 +133,7 @@ else
             WriteLiteral("</li>\r\n\r\n        <li>");
             EndContext();
             BeginContext(541, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a669fd5206454ef7b86aed69b50f87cc", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5c2bf9ca468f4dcfa31b18c92aaaa7c7", async() => {
                 BeginContext(590, 9, true);
                 WriteLiteral("Çıkış Yap");
                 EndContext();

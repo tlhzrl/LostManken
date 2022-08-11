@@ -36,6 +36,7 @@ namespace LostManken.Areas.Admin.Pages.Products
 
         public List<SelectListItem> CategoryList
         {
+            
             get
             {
                 var CategoryList = new List<SelectListItem>();
@@ -54,9 +55,25 @@ namespace LostManken.Areas.Admin.Pages.Products
             }
         }
 
+        public List<SelectListItem> Currenies
+        {
+            get
+            {
+                return new List<SelectListItem>() { 
+                    new SelectListItem() { Text = "Dolar", Value = "1" },
+                    new SelectListItem() { Text = "Euro", Value = "2" },
+                    new SelectListItem() { Text = "TL", Value = "3" }
+                };
+            }
+        }
+
         public void OnGet()
         {
+            
+
             ViewData["Categories"] = CategoryList;
+            ViewData["Currenies"] = Currenies;
+
             Products.MainPhoto = "";
         }
 
@@ -64,6 +81,7 @@ namespace LostManken.Areas.Admin.Pages.Products
         {
             CategoryList.Add(new SelectListItem { Text = "Seçim yapýnýz", Value = null });
             ViewData["Categories"] = CategoryList;
+            ViewData["Currenies"] = Currenies;
 
 
             //var uploader = new FileSystemFileUploader("Images");

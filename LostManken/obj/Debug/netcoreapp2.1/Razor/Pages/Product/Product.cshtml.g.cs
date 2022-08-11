@@ -64,7 +64,7 @@ namespace AspNetCore
 ");
             EndContext();
             BeginContext(447, 66, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:product-list", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c46f41449300408aa2043e0156265749", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:product-list", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "06bab339818e4061abb61fb567f3511f", async() => {
             }
             );
             __ProductListViewComponentTagHelper = CreateTagHelper<global::AspNetCore.Pages_Product_Product.__Generated__ProductListViewComponentTagHelper>();

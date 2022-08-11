@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace LostManken.Areas.Admin.Pages.Email
 {
-  
+    [Authorize]
     public class MailIM
     {
         [Required(ErrorMessage = "E-posta boþ geçilemez")]

@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace LostManken.Areas.Admin.Pages.Categories
 {
-   
+   [Authorize]
     public class CreateModel : PageModel
     {
         private readonly ApplicationDbContext _db;

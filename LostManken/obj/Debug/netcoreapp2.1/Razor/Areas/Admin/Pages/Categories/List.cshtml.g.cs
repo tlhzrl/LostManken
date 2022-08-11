@@ -79,7 +79,7 @@ using NonFactors.Mvc.Grid;
             WriteLiteral("            <tr>\r\n                <td class=\"row\">\r\n                    <br />\r\n                    ");
             EndContext();
             BeginContext(439, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d935996a67eb485dad695d8b9831132c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce4125f9a12643e0891e33106a0503ed", async() => {
                 BeginContext(520, 7, true);
                 WriteLiteral("Düzenle");
                 EndContext();
@@ -117,7 +117,7 @@ using NonFactors.Mvc.Grid;
             WriteLiteral("&emsp;\r\n                    ");
             EndContext();
             BeginContext(559, 92, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e476b64561584ffd97191af09a4fb4e2", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8019e482ebb4e889292d02a4bddd568", async() => {
                 BeginContext(644, 3, true);
                 WriteLiteral("Sil");
                 EndContext();
@@ -155,7 +155,7 @@ using NonFactors.Mvc.Grid;
             WriteLiteral("&emsp;\r\n                    ");
             EndContext();
             BeginContext(679, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7cfecca51f8e43eab0fd5e1231678963", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "962050f5e5e94ba18b0fb684559abbb6", async() => {
                 BeginContext(765, 5, true);
                 WriteLiteral("Detay");
                 EndContext();

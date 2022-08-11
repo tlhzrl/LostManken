@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace LostManken.Areas.Admin.Pages.Products
 {
-   
+    [Authorize]
     public class EditModel : PageModel
     {
 
